@@ -40,4 +40,4 @@ match opcion:
         moneda = None
 
 if resultado is not None:
-    print(f"{cantidad} MXN son {resultado:.2f} {moneda}")
+    print("Resultado:", resultado, moneda)
