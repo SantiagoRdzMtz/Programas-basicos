@@ -37,3 +37,7 @@ match opcion:
     case _:
         print("Opción no válida")
         resultado = None
+        moneda = None
+
+if resultado is not None:
+    print(f"{cantidad} MXN son {resultado:.2f} {moneda}")
