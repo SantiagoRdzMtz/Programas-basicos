@@ -1,4 +1,4 @@
-# Es primo
+# 17Es primo
 def es_primo(n):
     if n < 2:
         return False  # los numeros menores a 2 no son primos
