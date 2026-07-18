@@ -1,7 +1,4 @@
 #Encontrar mayor y menor
-# Maximo y minimo
-# Encuentra el numero mas grande y mas chico de una lista, de forma manual y tambien con max() y min()
-
 def maximo_manual(lista):
     if len(lista) == 0:
         return None
